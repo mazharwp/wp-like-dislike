@@ -9,7 +9,7 @@ GDPR compliant
 
 
 Note: Add this code to theme function.php file
-
+----------------------------------------------
 function ld_enqueue_assets() {
     wp_enqueue_script(
         'ld-script',
